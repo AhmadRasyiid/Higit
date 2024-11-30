@@ -16,13 +16,13 @@ database = {
             'nama': 'Joy Ichimiro',
             'umur': '19',
             'status': 'mahasiswa',
-            'passwor': 'joyaja'
+            'password': 'joyaja'
         },
         'Rey': {
             'nama': 'Rey',
             'umur': '25',
             'status': 'pegawai kantoran',
-            'passord': 'reyaja'
+            'password': 'reyaja'
         }
     }
 }
